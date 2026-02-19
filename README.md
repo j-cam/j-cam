@@ -1,4 +1,4 @@
-## j-cam // Systems Architect
+## j-cam Systems Architect
 
 ### 20 Years Tenure. Precision-Scale Systems Logic. 
 ### Currently Executing: [OPERATION: SYSTEM RECOVERY]
@@ -7,7 +7,7 @@ I am a Systems Architect focused on **Structural Stabilization** and **Agentic W
 
 ---
 
-### // THE ACTIVE MISSION: SYSTEM-WIDE MODERNIZATION
+### THE ACTIVE MISSION: SYSTEM-WIDE MODERNIZATION
 **Status:** In Progress (4 Assets Recovered / 68 In Backlog)
 
 I am currently leveraging high-output **Agentic Workflows** to modernize 20 years of technical assets. The goal is to move legacy logic from the "Engine Room" to the "Helm" by enforcing strict governance and logic isolation.
@@ -20,7 +20,7 @@ I am currently leveraging high-output **Agentic Workflows** to modernize 20 year
 
 ---
 
-### // THE CORE PROTOCOL
+### THE CORE PROTOCOL
 
 I build for durability and load-bearing capacity. My modernization work is centered on:
 
@@ -30,7 +30,7 @@ I build for durability and load-bearing capacity. My modernization work is cente
 
 ---
 
-### // THE ANOMALY STANDARD
+### THE ANOMALY STANDARD
 
 > "I don’t aim for theoretical perfection. I deliver systems that are accessible, fast, and actually ship."
 
@@ -40,7 +40,7 @@ I am the person called in when the foundation is cracked and the system is drift
 
 ---
 
-### // TECH STACK (THE TOOLBELT)
+### TECH STACK (THE TOOLBELT)
 
 **Orchestration:** Agentic AI Pipelines, GitHub Actions, Custom CLI Automation  
 **Modernization:** React, TypeScript, Node.js, Next.js, Storybook  
